@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 This is Omkar Pathak
+
+**A Software Developer by Profession, Pythonista by :heart: stuffed inside a compact, witty, artistic body**
 
 <!--
 **OmkarPathak/omkarpathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
